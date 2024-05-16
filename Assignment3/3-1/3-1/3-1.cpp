@@ -18,7 +18,7 @@
 //
 //class LinkedList {
 //public:
-//	LinkedList() { Node node; pHead->setNext(NULL); pHead->setValue("\0"); }
+//	LinkedList() { /*Node node;*/ pHead->setNext(NULL); pHead->setValue("\0"); }
 //	bool initalize(string str, int cur_pos);
 //	bool transfer(string str, int cur_pos);
 //	void print();
